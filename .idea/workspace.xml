@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc37409e-4091-4a49-983a-11e270dfe0ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mahasiswa@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mahasiswa@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mahasiswa@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mahasiswa: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cA41KhLFyhn1tMNzqmdduUFLEe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="123180141_responsi_A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc37409e-4091-4a49-983a-11e270dfe0ce" name="Default Changelist" comment="" />
+      <created>1589957847771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589957847771</updated>
+      <workItem from="1589957852422" duration="586000" />
+      <workItem from="1589958478853" duration="1784000" />
+      <workItem from="1589960294487" duration="1802000" />
+      <workItem from="1589962126521" duration="1780000" />
+      <workItem from="1589963940912" duration="1781000" />
+      <workItem from="1589965757259" duration="1780000" />
+      <workItem from="1589967567801" duration="1781000" />
+      <workItem from="1589969378652" duration="1489000" />
+      <workItem from="1589971569516" duration="1740000" />
+      <workItem from="1589974327253" duration="1788000" />
+      <workItem from="1589976137004" duration="1788000" />
+      <workItem from="1589977945708" duration="249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589957999342">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="466" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1589957999342" />
+    <state x="765" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1589970272528">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="765" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1589970272528" />
+    <state x="690" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589975272241">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="690" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1589975272241" />
+    <state x="469" y="82" key="FileChooserDialogImpl" timestamp="1589963774857">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="469" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589963774857" />
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1589978063520">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589978063520" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1589978063520">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589978063520" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1589978063519">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589978063519" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1589978063520">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589978063520" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1589963811667">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589963811667" />
+    <state x="655" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1589962126035">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="655" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589962126035" />
+    <state x="496" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589963807518">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="496" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1589963807518" />
+    <state x="596" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589960246637">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="596" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1589960246637" />
+  </component>
+</project>
